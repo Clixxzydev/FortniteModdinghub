@@ -3,7 +3,7 @@ Github Repositry with everything needed to mod older versions of fortnite
 
 To Find These Files, Please Join the discord. Where help will be provided
 
-# Uproject Files More Coming Soon!
+# Uproject Files, More Coming Soon!
 
 
 [14.30](https://github.com/Clixxzydev/FN_GameProj-Ver14.30)
